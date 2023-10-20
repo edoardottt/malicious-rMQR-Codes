@@ -55,7 +55,7 @@ def generate_readme(dict):
                     v + 
                     "` | [link](https://github.com/edoardottt/malicious-rMQR-Codes/blob/main/payloads/" +
                     sys.argv[1][:-4] +
-                    "/" +
+                    "/data/" +
                     str(k) +
                     ".png) |\n")
 
