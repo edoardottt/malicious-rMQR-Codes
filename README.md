@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-Collection of malicious rMQR Codes for Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more
+Collection of (4000+) malicious rMQR Codes for Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more
 </p>
 
 Payloads
