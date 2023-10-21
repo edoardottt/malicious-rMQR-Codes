@@ -17,10 +17,6 @@ Payloads
 | Command Injection | [Collection](https://github.com/edoardottt/malicious-rMQR-Codes/blob/main/payloads/command-injection/README.md) |
 | XSS | [Collection](https://github.com/edoardottt/malicious-rMQR-Codes/blob/main/payloads/xss/README.md) |
 
-Changelog 📌
--------
-
-Detailed changes for each release are documented in the [release notes](https://github.com/edoardottt/malicious-rMQR-Codes/releases).
 
 Contributing 🛠
 -------
