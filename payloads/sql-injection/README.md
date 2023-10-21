@@ -4,8 +4,8 @@
 | ----- | ----- |
 | `'` | [link](https://github.com/edoardottt/malicious-rMQR-Codes/blob/main/payloads/sql-injection/data/1.png) |
 | `''` | [link](https://github.com/edoardottt/malicious-rMQR-Codes/blob/main/payloads/sql-injection/data/2.png) |
-| ``` | [link](https://github.com/edoardottt/malicious-rMQR-Codes/blob/main/payloads/sql-injection/data/3.png) |
-| ```` | [link](https://github.com/edoardottt/malicious-rMQR-Codes/blob/main/payloads/sql-injection/data/4.png) |
+| `` ` `` | [link](https://github.com/edoardottt/malicious-rMQR-Codes/blob/main/payloads/sql-injection/data/3.png) |
+| ` `` ` | [link](https://github.com/edoardottt/malicious-rMQR-Codes/blob/main/payloads/sql-injection/data/4.png) |
 | `,` | [link](https://github.com/edoardottt/malicious-rMQR-Codes/blob/main/payloads/sql-injection/data/5.png) |
 | `"` | [link](https://github.com/edoardottt/malicious-rMQR-Codes/blob/main/payloads/sql-injection/data/6.png) |
 | `""` | [link](https://github.com/edoardottt/malicious-rMQR-Codes/blob/main/payloads/sql-injection/data/7.png) |

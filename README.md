@@ -9,6 +9,11 @@ Collection of malicious rMQR Codes for Penetration testing, Vulnerability assess
 Payloads
 -------
 
+| Attack | Collection |
+| ------ | ---------- |
+| SQL Injection | [Collection](https://github.com/edoardottt/malicious-rMQR-Codes/blob/main/payloads/sql-injection/README.md) |
+| Open Redirect | [Collection](https://github.com/edoardottt/malicious-rMQR-Codes/blob/main/payloads/open-redirect/README.md) |
+
 Changelog 📌
 -------
 
