@@ -13,6 +13,7 @@ Payloads
 | ------ | ---------- |
 | SQL Injection | [Collection](https://github.com/edoardottt/malicious-rMQR-Codes/blob/main/payloads/sql-injection/README.md) |
 | Open Redirect | [Collection](https://github.com/edoardottt/malicious-rMQR-Codes/blob/main/payloads/open-redirect/README.md) |
+| Server Side Template Injection | [Collection](https://github.com/edoardottt/malicious-rMQR-Codes/blob/main/payloads/ssti/README.md) |
 
 Changelog 📌
 -------
