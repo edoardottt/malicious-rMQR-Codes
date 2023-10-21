@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-Collection of (4000+) malicious <a target="_blank" href="https://www.qrcode.com/en/codes/rmqr.html">rMQR Codes</a> for Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more
+Collection of (4000+) malicious rMQR Codes for Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more
 </p>
 
 Payloads
