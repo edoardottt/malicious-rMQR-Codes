@@ -1,3 +1,12 @@
+#
+# Malicious rMQR Codes
+#
+# https://github.com/edoardottt/malicious-rMQR-Codes 
+#
+# Collection of (4000+) malicious rMQR Codes for Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more
+#
+
+
 import rmqrcode
 import sys
 
