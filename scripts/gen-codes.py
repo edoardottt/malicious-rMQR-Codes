@@ -44,7 +44,7 @@ def generate_codes(data):
 
 def generate_readme(dict):
     """
-    
+    This function updates the markdown file with new rows.
     """
     with open("output.md", "w+") as f:
         f.write("## " + sys.argv[1][:-4] + "\n")
