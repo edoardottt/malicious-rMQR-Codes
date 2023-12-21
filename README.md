@@ -18,14 +18,14 @@ Payloads
 | XSS | [Collection](https://github.com/edoardottt/malicious-rMQR-Codes/blob/main/payloads/xss/README.md) |
 
 
-Useful reading: [qrcode.com / rmqr](https://www.qrcode.com/en/codes/rmqr.html)
+Useful reading: [qrcode.com/rmqr](https://www.qrcode.com/en/codes/rmqr.html)
 
 Contributing 🛠
 -------
 
 Just open an [issue](https://github.com/edoardottt/malicious-rMQR-Codes/issues) / [pull request](https://github.com/edoardottt/malicious-rMQR-Codes/pulls).
 
-Special thanks to: [payloadbox](https://github.com/payloadbox), [rmqrcode-python](https://github.com/OUDON/rmqrcode-python), [John Hammond](https://www.youtube.com/watch?v=J8S-NJ1GTn4&ab_channel=JohnHammond).
+Special thanks to: [payloadbox](https://github.com/payloadbox), [rmqrcode-python](https://github.com/OUDON/rmqrcode-python) and [John Hammond](https://www.youtube.com/watch?v=J8S-NJ1GTn4&ab_channel=JohnHammond).
   
 License 📝
 -------
