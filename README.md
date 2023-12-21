@@ -18,7 +18,7 @@ Payloads
 | XSS | [Collection](https://github.com/edoardottt/malicious-rMQR-Codes/blob/main/payloads/xss/README.md) |
 
 
-Useful reading: [qrcode.com/rmqr](https://www.qrcode.com/en/codes/rmqr.html)
+Useful reading: [qrcode.com/en/codes/rmqr](https://www.qrcode.com/en/codes/rmqr.html)
 
 Contributing 🛠
 -------
